@@ -1,5 +1,12 @@
 # konfigurasi untuk penggunaan codeigniter 4
 
+## Profil
+| #               | My Data           |
+| --------------- | ----------------- |
+| **Nama**        | Muhammad Farhan   |
+| **NIM**         | 312110128         |
+| **Kelas**       | TI.21.A.1         |
+| **Mata Kuliah** | Pemrograman Web 2 |
 ---
 
 1. download codeigniter4 yang bisa didownload pada codeigniter.com
